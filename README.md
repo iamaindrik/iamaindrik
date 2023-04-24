@@ -12,8 +12,6 @@ Computer Engineering.<br>Machine Learning & Artificial Intelligence.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamaindrik&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamaindrik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=tw_aindrik)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iamaindrik&icon=0&color=0)](https://visitcount.itsvg.in)
