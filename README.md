@@ -1,3 +1,4 @@
+<p align="center"><img src="https://github.com/pande17827/pande17827/blob/main/header.png" width="1380px" height="180px"></p>
 <h1 align="center">नमस्ते (Namaste), I am Aindrik Sarkar</h1>
 <p align="center">
 <i>A passionate Web Developer</i><br></p>
