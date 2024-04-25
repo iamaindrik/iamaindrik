@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/iamaindrik/iamaindrik/blob/main/banner_aindrik.jpg" width="1380px" height="180px"></p>
+<p align="center"><img src="https://github.com/iamaindrik/iamaindrik/blob/main/banner_aindrik.jpg" width="1380px" height="250px"></p>
 <h1 align="center">नमस्ते (Namaste), I am Aindrik Sarkar</h1>
 <p align="center">
 <i>A passionate Web Developer</i><br></p>
