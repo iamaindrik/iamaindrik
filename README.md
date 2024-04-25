@@ -14,8 +14,8 @@
 <a href="https://instagram.com/aindrik.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aindrik.in" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamaindrik&show_icons=true&locale=en" alt="iamaindrik" /></p>
-<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamaindrik&" alt="iamaindrik" /></p>
-</div>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamaindrik&show_icons=true&locale=en" alt="iamaindrik" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamaindrik&" alt="iamaindrik" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamaindrik&label=Profile%20views&color=0e75b6&style=flat" alt="iamaindrik" /> <p><a href="https://www.buymeacoffee.com/aindrik"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/aindrik" /></a></p> </p>
