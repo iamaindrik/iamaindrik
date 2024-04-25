@@ -3,7 +3,9 @@
 <p align="center">
 <i>A passionate Web Developer</i><br></p>
 
-## 🌐 Socials:
+<hr>
+<p align="center">
+<i>Let's connect and chat! Open to anything under the sun.</i><br>
 <p align="center">
 <a href="https://twitter.com/tw_aindrik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tw_aindrik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aindriksarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aindriksarkar" height="30" width="40" /></a>
