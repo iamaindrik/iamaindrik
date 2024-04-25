@@ -16,7 +16,7 @@
 
 
 
-## Support
+
 <p><a href="https://www.buymeacoffee.com/aindrik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/aindrik" /></a></p><br><br>
 
 # 📊 GitHub Stats:
@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamaindrik&" alt="iamaindrik" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamaindrik&label=Profile%20views&color=0e75b6&style=flat" alt="iamaindrik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamaindrik&label=Profile%20views&color=0e75b6&style=flat" alt="iamaindrik" /> <p><a href="https://www.buymeacoffee.com/aindrik"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/aindrik" /></a></p><br><br> </p>
